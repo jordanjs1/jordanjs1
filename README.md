@@ -1,10 +1,10 @@
 ### Hi there, I am [Jordan Larson](#)👋
 <img src="https://komarev.com/ghpvc/?username=jordanjs1" alt="jordanjs1" />
 
-- 🌱  I'm a Fullstask Javascript developer, with an interest in Full-stack development, I am keen in learning new technologies and increasing my expertise in them. 
-- 🔭  I’m currently working on React/Vue and Nodejs/Python. 
+- 🌱  I'm a Software Engineer, with an interest in Full-stack development, I am keen in learning new technologies and increasing my expertise in them. 
+- 🔭  I’m currently working with React/Vue, Nodejs/Python, and Java. 
 - ⚡  I'm able to build a project from scratch and can build a hybrid application for IOS and Android, or even Desktop App.
-- 👯  I’m looking to collaborate on React/Vue/Node/Django projects.
+- 👯  I’m looking to collaborate on React/Vue/Node/Django/Java projects.
 - 🤔  I’m looking for help with some project idea.
 - 💬  Ask me about Tech Stuff 💻
 
