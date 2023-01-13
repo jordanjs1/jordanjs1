@@ -27,9 +27,3 @@
 
 
 
-[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordanjs1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=jordanjs1&show_icons=true)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjs1&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjs1&layout=compact)
-
-
-
