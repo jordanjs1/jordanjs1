@@ -15,8 +15,7 @@
 <code><img height="30" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ant-design.png?raw=true"></code>
 <code><img height="30" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png"></code>
 <code><img height="30" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
-<code><img height="30" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_electron.png?raw=true"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png"></code>
+<code><img height="30" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_electron.png?raw=true"></code>
 <code><img height="30" src="https://i.imgur.com/VyjCJuz.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
